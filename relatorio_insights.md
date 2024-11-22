@@ -3,12 +3,12 @@
 O gráfico da Figura 1 demonstra a tendência de vendas mensais em 2023\.
 
 Figura 1 \- Tendência de vendas mensais em 2023  
-![][image1]
+![grafico](https://github.com/user-attachments/assets/146490ac-d2c1-4827-84f7-88190a3fd07e)
 
 A Figura 2 demonstra o mês com o maior número de vendas (pico de vendas) e uma tabela com os meses com vendas acima da média.
 
 Figura 2 \- Pico de vendas e meses com venda acima da média  
-![][image2]
+![fig2](https://github.com/user-attachments/assets/98d56038-abe0-490f-9a7b-920fb68fdf13)
 
 Com base nas análise de venda, pode-se notar que houve  um pico significativo de vendas no mês de dezembro de 2023, sendo representado na Figura 1 e demonstrado na Figura 2\. Este aumento pode estar associado a compras de fim de ano, promoções sazonais ou campanhas de marketing específicas.
 
@@ -17,14 +17,14 @@ Na Figura 2, é possível identificar que os meses de abril, junho e dezembro ap
 A Figura 3 apresenta uma tabela com o total de vendas para cada produto e o produto que obteve o maior número de vendas totais.
 
 Figura 3 \- Total de vendas por produto e produto com maior número de vendas  
-![][image3]
+![total_vendas_produto](https://github.com/user-attachments/assets/d6240b93-a679-49d3-a327-8fcb821abc88)
 
 A Figura 3 demonstra que o Produto A foi identificado como o produto com o maior número de vendas totais, destacando-se como o principal gerador de receita. Este desempenho pode estar ligado a diversos fatores como a maior aceitação no mercado, campanhas de marketing mais eficazes, melhor relação custo-benefício.
 
 A Figura 4 apresenta uma tabela com a quantidade de produtos vendidos em relação a cada produto e o produto que obteve a maior quantidade de vendas.
 
 Figura 4 \- Quantidade de vendas por produto e produto com maior quantidade de vendas  
-![][image4]
+![fig4](https://github.com/user-attachments/assets/03b2181f-9c5c-4400-89d4-6c4534c70376)
 
 A Figura 4 demonstra que o Produto D teve a maior quantidade total vendida, indicando, provavelmente, uma alta popularidade ou necessidade. A análise de estoque e logística deve ser considerada para evitar rupturas e garantir o atendimento da demanda
 
